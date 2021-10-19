@@ -1,0 +1,10 @@
+Desenvolva uma Página Web para a FAETERJ.
+
+Restrições tecnológicas:
+  * Usar apenas HTML, CSS e JS conforme visto nas aulas.
+  * Ter pelo menos três páginas diferentes.
+  * Observar a semântica dos elementos no documento HTML (https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Content_categories)
+  * e outros que podem vir...
+
+
+Esse projeto será 80% da nota da AV1 os outros 20% serão os exercícios anteriores.
